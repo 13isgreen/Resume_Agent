@@ -9,3 +9,10 @@ python-dotenv
 chromadb
 pandas
 docling
+
+requests
+ipykernel
+pydantic
+lancedb
+streamlit
+tiktoken
